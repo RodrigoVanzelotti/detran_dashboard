@@ -1,5 +1,8 @@
 # Vehicle Statistics Dashboard
 
+![alt text](tabela_principal.png "Title")
+![alt text](graphs.png "Title")
+
 ### A little bit of context:
 
 Lately, and those who are close friends of mine know this, I've been looking to buy a car, which would be my first "big purchase". The issue is that a basic brand-new car in Brazil costs around 53 minimum wages, which adds up to nearly 4 and a half years of work for an average worker. I don't fit into that reality, but I try to stay grounded. 
