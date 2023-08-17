@@ -4,7 +4,7 @@ import streamlit as st
 URL = 'https://www.portaldetransito.rs.gov.br/dtw/servicos/crd/mostraEdital.jsp?nroEdital=21&anoEdital=2023'
 
 tables = pd.read_html(URL)
-
+    
 if tables:
     df = pd.concat(tables, ignore_index=True)
     df[['Marca', 'Modelo']] = df['Marca/Modelo'].str.split('/', 1, expand=True)
