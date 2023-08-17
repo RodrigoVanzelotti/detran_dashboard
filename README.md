@@ -1,7 +1,7 @@
 # Vehicle Statistics Dashboard
 
-![alt text](tabela_principal.png "Title")
-![alt text](graphs.png "Title")
+![alt text](assets/tabela_principal.png "Main DataFrame")
+![alt text](assets/graphs.png "Graphs")
 
 ### A little bit of context:
 
